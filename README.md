@@ -1,8 +1,13 @@
-Student Info
+# Student Info
+
 Name : Nithin Lakide
+
 Student ID: 700764562
+
 Course : Neural Network & Deep Learning
+
 Assignment: Home Assignment 1
+
 # TensorFlow Assignments: Tensors, Loss Functions & TensorBoard
 
 This notebook demonstrates three key concepts in TensorFlow: tensor manipulation, loss function behavior, and training visualization with TensorBoard.
